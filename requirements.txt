@@ -1,0 +1,9 @@
+# ldap example
+# NOTE: needs other basics for proper install
+python-ldap==3.3.0
+
+# vmware example
+# NOTE: needs git package for proper install
+pyvim==3.0.2
+pyvmomi==7.0
+git+https://github.com/vmware/vsphere-automation-sdk-python.git#v6.9.1
